@@ -1,3 +1,7 @@
 body {
-    background: blue;
+    background: gainsboro;
+
+    img{
+      width: 500px;
+      }
   }
